@@ -20,7 +20,7 @@
 
 <h2>Visão geral:</h2>
 
-<video src="./videos/cloneNetflixVideo.mp4" width="600" ></video>
+<video src="./videos/cloneNetflixVideo_Trim.mp4" width="600" autoplay></video>
 
 <div align="center">
   <h4>Todos os direitos de imgaem a Netflix</h4>
