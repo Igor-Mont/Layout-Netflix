@@ -20,7 +20,7 @@
 
 <h2>Visão geral:</h2>
 
-<video src="./videos/cloneNetflixVideo_Trim.mp4" width="600" autoplay></video>
+<iframe src="https://giphy.com/embed/FI161PMVsH8oyRDdbD" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FI161PMVsH8oyRDdbD">
 
 <div align="center">
   <h4>Todos os direitos de imgaem a Netflix</h4>
