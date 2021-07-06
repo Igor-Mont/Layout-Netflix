@@ -23,7 +23,7 @@
 <img src="./screenshots/gifVideo.gif"></img>
 
 <div align="center">
-  <h4>Todos os direitos de imgaem a Netflix</h4>
+  <h4>Todos os direitos de imagem a Netflix</h4>
   <h4>Dados obtidos através do site <a href="https://www.themoviedb.org/">TheMovieDB</a></h4>
 </div>
 
